@@ -63,6 +63,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Thinking in HTML [[Download]](/book/Thinking%20in%20HTML.pdf)
 * Thinking in JavaScript [[Download]](/book/Thinking%20in%20JavaScript.pdf)
 * TypeScript Design Patterns [[Download]](/book/TypeScript%20Design%20Patterns.pdf)
+* Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps [[Download]](/book/Vue.js%202%20Web%20Development%20Projects%20-%20Learn%20Vue.js%20by%20building%206%20web%20apps.pdf)
 * Web Performance in Action [[Download]](/book/Web%20Performance%20in%20Action.mobi)
 * WebRTC Blueprints [[Download]](/book/WebRTC%20Blueprints.pdf)
 * WebRTC Cookbook [[Download]](/book/WebRTC%20Cookbook.pdf)
