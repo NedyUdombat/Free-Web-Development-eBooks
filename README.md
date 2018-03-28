@@ -34,6 +34,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * JavaScript - The Definitive Guide, 6th edition - 中文 [[Download]](/book/JavaScript%20-%20The%20Definitive%20Guide%2C%206th%20edition%20-%20%E4%B8%AD%E6%96%87.pdf)
 * JavaScript - The Definitive Guide, 6th edition [[Download]](/book/JavaScript%20-%20The%20Definitive%20Guide%2C%206th%20edition.pdf)
 * JavaScript - The Good Parts [[Download]](/book/JavaScript%20-%20The%20Good%20Parts.pdf)
+* JavaScript Recipes - A Problem-Solution Approach [[Download]](/book/JavaScript%20Recipes%20-%20A%20Problem-Solution%20Approach.pdf)
 * jQuery Design Patterns [[Download]](/book/jQuery%20Design%20Patterns.pdf)
 * Learning Bootstrap 4 - Second Edition [[Download]](/book/Learning%20Bootstrap%204%20-%20Second%20Edition.pdf)
 * Learning Bootstrap [[Download]](/book/Learning%20Bootstrap.pdf)
