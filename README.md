@@ -63,6 +63,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Pro TypeScript - Application-Scale JavaScript Development - Second Edition [[Download]](/book/Pro%20TypeScript%20-%20Application-Scale%20JavaScript%20Development%20-%20Second%20Edition.pdf)
 * Programming the Semantic Web [[Download]](/book/Programming%20the%20Semantic%20Web.pdf)
 * React Design Patterns and Best Practices [[Download]](/book/React%20Design%20Patterns%20and%20Best%20Practices.pdf)
+* Refactoring JavaScript - Turning Bad Code Into Good Code [[Download]](/book/Refactoring%20JavaScript%20-%20Turning%20Bad%20Code%20Into%20Good%20Code.epub)
 * RESTful Web Services [[Download]](/book/RESTful%20Web%20Services.pdf)
 * Seven Web Frameworks in Seven Weeks [[Download]](/book/Seven%20Web%20Frameworks%20in%20Seven%20Weeks.pdf)
 * Socket.IO Cookbook [[Download]](/book/Socket.IO%20Cookbook.pdf)
