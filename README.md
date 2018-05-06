@@ -12,6 +12,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 
 * Angular Test-Driven Development - Second Edition [[Download]](/book/Angular%20Test-Driven%20Development%20-%20Second%20Edition.pdf)
 * AngularJS Essentials [[Download]](/book/AngularJS%20Essentials.pdf)
+* AngularJS Test-driven Development [[Download]](/book/AngularJS%20Test-driven%20Development.pdf)
 * Become a ninja with Angular 2 [[Download]](/book/Become%20a%20ninja%20with%20Angular%202.pdf)
 * Beginning HTML and CSS [[Download]](/book/Beginning%20HTML%20and%20CSS.pdf)
 * Beginning JavaScript [[Download]](/book/Beginning%20JavaScript.pdf)
