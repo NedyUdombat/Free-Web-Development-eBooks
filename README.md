@@ -44,6 +44,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * JavaScript - The Definitive Guide, 6th edition [[Download]](/book/JavaScript%20-%20The%20Definitive%20Guide%2C%206th%20edition.pdf)
 * JavaScript - The Good Parts [[Download]](/book/JavaScript%20-%20The%20Good%20Parts.pdf)
 * JavaScript Recipes - A Problem-Solution Approach [[Download]](/book/JavaScript%20Recipes%20-%20A%20Problem-Solution%20Approach.pdf)
+* jQuery Cookbook [[Download]](/book/jQuery%20Cookbook.pdf)
 * jQuery Design Patterns [[Download]](/book/jQuery%20Design%20Patterns.pdf)
 * Jump Start CSS [[Download]](/book/Jump%20Start%20CSS.pdf)
 * Jump Start HTML5 [[Download]](/book/Jump%20Start%20HTML5.pdf)
