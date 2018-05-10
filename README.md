@@ -67,6 +67,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Mastering TypeScript - Second Edition [[Download]](/book/Mastering%20TypeScript%20-%20Second%20Edition.pdf)
 * Mastering Web Application Development with AngularJS [[Download]](/book/Mastering%20Web%20Application%20Development%20with%20AngularJS.pdf)
 * MEAN Web Development [[Download]](/book/MEAN%20Web%20Development.pdf)
+* Node.js 8 the Right Way - Practical, Server-Side JavaScript That Scales [[Download]](/book/Node.js%208%20the%20Right%20Way%20-%20Practical%2C%20Server-Side%20JavaScript%20That%20Scales.pdf)
 * Node.js the Right Way [[Download]](/book/Node.js%20the%20Right%20Way.pdf)
 * Object-Oriented JavaScript - Second Edition [[Download]](/book/Object-Oriented%20JavaScript%20-%20Second%20Edition.pdf)
 * Offline First Web Development [[Download]](/book/Offline%20First%20Web%20Development.pdf)
